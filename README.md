@@ -1,5 +1,3 @@
-Of course, here is the updated README.md file in English:
-
 ```markdown
 # Goggl - The Most Unique Search Engine in the World
 
