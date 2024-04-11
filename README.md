@@ -1,4 +1,3 @@
-
 ```markdown
 # Goggl - The Most Unique Search Engine in the World
 
@@ -7,7 +6,7 @@
 ## Introduction
 This is a code repository for the corresponding video tutorial.
 
-In this video, we will create a Google Clone app. We're going to use React and Google Search API powered by https://rapidapi.com.
+In this video, we will create a Google Clone app. We're going to use React and Google Search API powered by [RapidAPI](https://rapidapi.com).
 
 By the end of this video, you will become the master of working with APIs.
 
@@ -29,3 +28,4 @@ npm start
 ```
 
 This will install the required dependencies and start the development server.
+```
